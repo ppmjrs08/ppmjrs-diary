@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: ${M2_DB_URL}
+    username: ${M2_DB_USER}
+    password: ${M2_DB_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  sql:
+    init:
+      mode: never

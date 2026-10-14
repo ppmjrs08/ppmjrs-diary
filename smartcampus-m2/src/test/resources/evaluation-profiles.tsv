@@ -1,0 +1,21 @@
+id	interests	completed	relevant
+P01	machine learning	CS101	CS201
+P02	machine learning	CS101,CS201	CS301,CS303,CS304
+P03	database SQL		CS102
+P04	database SQL	CS102	CS305,CS203
+P05	web application backend	CS101	CS202,CS210
+P06	Java programming		CS101
+P07	cybersecurity threats encryption		CS205
+P08	network security	CS204,CS205	CS306
+P09	mathematics probability statistics		CS206
+P10	user experience interface design		CS208
+P11	cloud deployment containers	CS101,CS202	CS209
+P12	distributed consistency replication	CS204,CS209	CS308
+P13	mobile Android application	CS101	CS210
+P14	data analytics visualization	CS102	CS203
+P15	algorithms sorting trees	CS101	CS207
+P16	software testing automation	CS202	CS307
+P17	project schedule risk management		CS302
+P18	natural language processing	CS101,CS201	CS303
+P19	computer vision images	CS101,CS201	CS304
+P20	astrophysics		
